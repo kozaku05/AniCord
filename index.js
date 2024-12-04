@@ -47,4 +47,4 @@ async function sendDiscord() {
   }
 }
 sendDiscord();
-setInterval(sendDiscord, 600000);
+setInterval(sendDiscord, 600000);//好きなミリ秒を入力
