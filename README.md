@@ -3,6 +3,7 @@
 ### プロジェクトの説明
 
 このプロジェクトは、アニメのapiからランダムな作品を設定したミリ秒ごとに取得してdiscordのwebhookを使い送信するプログラムです
+- ※BOTに移行しました https://github.com/kozaku05/AniCord-bot
 
 ---
 
